@@ -29,6 +29,10 @@ h2 {
     width: 90%;
 }
 
+.paragraph {
+    margin-bottom: 4%;
+}
+
 .contact-button {
     text-decoration: none;
     background-image: linear-gradient(rgb(235, 66, 94), tomato);
